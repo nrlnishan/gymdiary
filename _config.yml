@@ -13,7 +13,9 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Get better, stronger & maintain your fitness with a routine using this app. Track your workouts & exercises in a simple & intuitively designed app just for you.
+app_description                           : Gym Diary is a simple & beautiful app for keeping track of all your workout & fitness related activities. Keep log of all your workouts whether at home or gym with ease.
+
+
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
