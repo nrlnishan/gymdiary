@@ -59,15 +59,8 @@ This update packs in a lots of features & performance improvements for you. Here
 
 
 - iOS 15 Support. Gym Diary now fully supports iOS 15 release
-
-
 - Introducing Workout Session Drafts! Now you can plan ahead your workout session using drafts.
-
-
 - New app icons. Now you can choose among 8 app icons.
-
-
-
 - Bug fixes & performance improvements.
 
 
@@ -77,20 +70,10 @@ This update packs in a lots of features & performance improvements for you. Here
 **Nov 2, 2021**
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
-
-
 - iOS 15 Support. Gym Diary now fully supports iOS 15 release
-
-
 - Introducing Workout Session Drafts! Now you can plan ahead your workout session using drafts.
-
-
 - Fixed crash which occurs when deleting existing plan.
-
-
 - Fixed design issue in workout history screen
-
-
 - Bug fixes & performance improvements.
 
 
@@ -101,19 +84,10 @@ This update packs in a lots of features & performance improvements for you. Here
 
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
-
 - iOS 15 Support. Gym Diary now fully supports iOS 15 release
-
-
 - Fix black navigation bar issue in Onboarding screens
-
-
 - Fix design issues in workout plans
-
-
 - Planned Workout: Now you can log all your workout from a plan at the same screen.
-
-
 - Bug fixes & performance improvements.
 
 
@@ -126,26 +100,12 @@ This update packs in a lots of features & performance improvements for you. Here
 
 
 - iOS 15 Support. Gym Diary now fully supports iOS 15 release
-
-
 - Now you can create a new plan directly from home screen.
-
-
 - Planned Workout: Now you can log all your workout from a plan at the same screen.
-
-
 - New icon for Workout Plan tab
-
-
 - Fixed issue where workout days section is empty when editing plan
-
-
 - Fixed issue where refreshing workout list when filter is active shows 0 workouts
-
-
 - Fixed issue where it shows 0 years in profile screen
-
-
 - Bug fixes & performance improvements.
 
 
@@ -159,14 +119,8 @@ This update packs in a lots of features & performance improvements for you. Here
 
 
 - Now you can schedule timing for your daily notification.
-
-
 - Improvements in workout plan. Assign same plan to multiple days in a week. Also now you can order workouts as per your preference in a plan.
-
-
 - Fix issues in widget when workout plan is changed.
-
-
 - Bug fixes & performance improvements.
 
 
@@ -179,8 +133,6 @@ This update packs in a lots of features & performance improvements for you. Here
 
 
 - Improve UI & icons
-
-
 - Bug fixes & performance improvements.
 
 
@@ -193,8 +145,6 @@ This update packs in a lots of features & performance improvements for you. Here
 
 
 - Fix ui issue in workout history screen.
-
-
 - Bug fixes & performance improvements.
 
 
@@ -207,17 +157,9 @@ This update packs in a lots of features & performance improvements for you. Here
 
 
 - Widgets are here. Now you can see your workout plans in your widgets.
-
-
 - Fix ui issue in timer view
-
-
 - Fix crash for some user when deleting workout plan
-
-
 - Fix crash for some user when deleting workouts
-
-
 - Bug fixes & performance improvements.
 
 
@@ -230,11 +172,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 
 - Widgets are here. Now you can see your workout plans in your widgets
-
-
 - Lots of UI Improvements.
-
-
 - Bug fixes & performance improvements
 
 
@@ -247,11 +185,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 
 - Widgets are here. Now you can see your workout plans in your widgets
-
-
 - Lots of UI Improvements.
-
-
 - Bug fixes & performance improvements
 
 
