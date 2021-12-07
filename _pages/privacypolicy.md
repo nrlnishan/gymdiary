@@ -5,56 +5,45 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+December 7 2021
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
-
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+This policy applies to all the information collected or submitted on "Gym Diary - Track Your Workout" apps for iOS platform. 
 
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## Ads, Analytics and Notifications
+We show ads through MoPub platform so that we can continue on providing this awesome app to you for free. You can always opt out of viewing ads by purchasing IAP for ad removal. To know more about MoPub platform, visit https://www.mopub.com/.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+Also we use Fabric/Firebase as an analytics platform. This is so that we can collect any crash or bugs related to app and provide you a bug free, seamless experience. Analytics data do not contain any kind of personal information. To know more about Fabric, visit https://fabric.io/.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+We use google Firebase platform to send you a push notification. This is so that you don't miss out on any awesome features update or sales or any other news from us. You can always disable push notification through your device settings. 
 
-<br>
+By using this app, You consent to all the privacy policies from above platforms.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## Data Collection & Privacy
+We take user privacy very seriously. We use apple's icloud platform for syncing your workouts data. All the workouts related data are very private and tied to your apple id. Only you have access to your workout data. For maintaining and enriching the experience of the user, we collect some other analytics data. This helps us to fix any issues & enrich the app experience for you. We do not collect any analytics data that can be used to identify you and We do not sell or share any data with any other third parties. 
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+In the future, we may change our Data Collection & Privacy policy. All rights will be reserved to the Gym Diary.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## Accessing, changing or deleting your information
+All your workout information is tied to your apple id in your icloud account. Only you have access to your data. As a result, only you can access & make changes to your workout data. Not even us. App does provides an option to delete all workout data. 
+
+The actual placement of this option inside the app may differ from time to time depending upon the UI. Please contact us if you have any issue.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## Subscriptions & Purchases
+Payment will be charged to your iTunes account (Apple ID) at the confirmation of purchase. Subscription will be automatically renewed unless it is cancelled at least 24 hours before the end of current subscription period. You can manage and cancel your subscriptions any time from your account settings on the App Store.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+You can always restore your previous purchases through the "Purchase" page on app.  Tap on "Restore Purchase" button and we will take care of the rest.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Gym Diary reserves the right to change the premium features anytime. 
 
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## User Consent
+By using this app, you consent to our terms of service & privacy policy. 
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## Contact
+If you have any queries, you can always email at gymdiaryios@gmail.com.
