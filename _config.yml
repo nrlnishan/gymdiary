@@ -21,8 +21,8 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Nishan Niraula                               
-your_link                                 :                     
-your_city                                 :                                 
+your_link                                 : https://twitter.com/nrlnishan
+your_city                                 : 
 email_address                             : gymdiaryios@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -61,7 +61,7 @@ features                                  :
 
   - title                                 : Calories Tracking
     description                           : Track your daily calorie input
-    fontawesome_icon_name                 : utensil
+    fontawesome_icon_name                 : pizza-slice
 
   - title                                 : Body Measurements
     description                           : Measure size of various body parts related to your workouts & keep track of the progress.
