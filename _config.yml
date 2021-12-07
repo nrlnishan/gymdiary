@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Nishan Niraula                               
 your_link                                 :                     
-your_city                                 : Thailand                                
+your_city                                 :                                 
 email_address                             : gymdiaryios@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -35,37 +35,37 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Beautiful User Interface: 
+  - title                                 : Beautiful User Interface
     description                           : No more clunky, difficult navigation. Easy to use app with beautiful UI and with Dark Mode.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : palette
     
   - title                                 : Custom Exercises
-    description                           : Create your own unlimited exercises for free. No more overwhelming unnecessary exercises which you don't know about. Create exercises as you progress
-    fontawesome_icon_name                 : mobile
+    description                           : "Create your own unlimited exercises for free. No more overwhelming unnecessary exercises which you don't know about. Create exercises as you progress"
+    fontawesome_icon_name                 : dumbbell
 
   - title                                 : Workout Plan
     description                           : Plan your workout ahead, create a draft for your workout & simply track it with single tap.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : file-alt
 
   - title                                 : Progress Graph
-    description                           : ust the graph you need. No unnecessary complicated graph to show your progress that you don't understand.
-    fontawesome_icon_name                 : sync
+    description                           : "Just the graph you need. No unnecessary complicated graph to show your progress that you don't understand."
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : Custom App Icons
     description                           : Want to stand out from the crowd? You can choose from multiple app icons.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : mobile
   
   - title                                 : Data Backup
-    description                           : Your workout data gets backed up to your icloud account automatically so that you won't lose it ever.
-    fontawesome_icon_name                 : star
+    description                           : "Your workout data gets backed up to your icloud account automatically so that you won't lose it ever."
+    fontawesome_icon_name                 : sync
 
   - title                                 : Calories Tracking
     description                           : Track your daily calorie input
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : hamburger
 
   - title                                 : Body Measurements
-    description                           : Track progress of your body parts by measuring it.
-    fontawesome_icon_name                 : link
+    description                           : Measure size of various body parts related to your workouts & keep track of the progress.
+    fontawesome_icon_name                 : ruler
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
