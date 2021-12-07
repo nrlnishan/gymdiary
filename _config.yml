@@ -61,7 +61,7 @@ features                                  :
 
   - title                                 : Calories Tracking
     description                           : Track your daily calorie input
-    fontawesome_icon_name                 : hamburger
+    fontawesome_icon_name                 : utensil
 
   - title                                 : Body Measurements
     description                           : Measure size of various body parts related to your workouts & keep track of the progress.
