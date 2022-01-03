@@ -13,7 +13,7 @@ This policy applies to all the information collected or submitted on "Gym Diary 
 <br>
 
 ## Ads, Analytics and Notifications
-We use Fabric/Firebase as an analytics platform. This is so that we can collect any crash or bugs related to app and provide you a bug free, seamless experience. Analytics data do not contain any kind of personal information. To know more about Fabric, visit https://fabric.io/.
+We use Firebase as an analytics platform. This is so that we can collect any crash or bugs related to app and provide you a bug free, seamless experience. Analytics data do not contain any kind of personal information. To know more about Firebase, visit https://firebase.google.com/.
 
 We also use google Firebase platform to send you a push notification. This is so that you don't miss out on any awesome features update or sales or any other news from us. You can always disable push notification through your device settings. 
 
