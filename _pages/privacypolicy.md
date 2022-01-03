@@ -7,7 +7,7 @@ include_in_header: true
 **Last updated**  
 December 7 2021
 
-# Privacy Policy
+# Terms of Service & Privacy Policy
 This policy applies to all the information collected or submitted on "Gym Diary - Track Your Workout" apps for iOS platform. 
 
 <br>
