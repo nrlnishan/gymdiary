@@ -11,6 +11,62 @@ See the changelogs for each release of Gym Diary here
 
 ### `Latest`
 
+## 1.20.0
+**Feb 13, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+- Make UI more intuitive for selecting & changing date when viewing workout report
+- Improved UI for accesing calendar, notes & workout history in workout set tracking screen
+- Now body measurements can be accessed from home screen
+- See list of workout plans instead of grid
+- Fix issue where theme selection would get reset on app launch
+- Bug fixes & performance improvements.
+
+## 1.19.0
+**Feb 9, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+- Make UI more intuitive for selecting & changing date when viewing workout report
+- Improved UI for accesing calendar, notes & workout history in workout set tracking screen
+- Now you can select calendar dates for last 3 years
+- Add menu option to remove duplicate workouts
+- Bug fixes & performance improvements.
+
+## 1.18.0
+**Feb 3, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+- Support for iPad in landscape mode.
+- Fixed issue where keyboard would hide when add new set button is tapped
+- Add shortcut button to hide keyboard when tracking workout set
+- More cursor to next input field when add new set button is tapped.
+- Bug fixes & performance improvements.
+
+## 1.17.3
+**Jan 25, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+- Support for iPad in landscape mode.
+- Fixed crash issue for some user when app is opened for the first time.
+- Bug fixes & performance improvements.
+
+## 1.17.2
+**Jan 23, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+- Support for iPad in landscape mode.
+- Fixed ui design size issue on ipad
+- Bug fixes & performance improvements.
+
+## 1.17.1
+**Jan 4, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+- New app icons. Now you can choose among 8 app icons.
+- Introducing Body Measurements. Now you can keep track of various parts of your body using this feature.
+- Fixed crash when tracking workout for some users
+- Bug fixes & performance improvements.
+
 ## 1.17.0 
 **Dec 6, 2021**
 
