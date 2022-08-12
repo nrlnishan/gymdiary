@@ -14,6 +14,7 @@ See the changelogs for each release of Gym Diary here
 
 ## 1.23.0
 **Aug 12, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 - Workout plans now has its own dedicated screen.
@@ -28,6 +29,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 ## 1.22.0
 **May 28, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 - Fix status bar theme issue on dark mode
@@ -35,6 +37,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 ## 1.21.0
 **Apr 15, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 
@@ -44,6 +47,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 ## 1.20.0
 **Feb 13, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 - Make UI more intuitive for selecting & changing date when viewing workout report
@@ -55,6 +59,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 ## 1.19.0
 **Feb 9, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 - Make UI more intuitive for selecting & changing date when viewing workout report
@@ -65,6 +70,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 ## 1.18.0
 **Feb 3, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 - Support for iPad in landscape mode.
@@ -75,6 +81,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 ## 1.17.3
 **Jan 25, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 - Support for iPad in landscape mode.
@@ -83,6 +90,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 ## 1.17.2
 **Jan 23, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 - Support for iPad in landscape mode.
@@ -91,6 +99,7 @@ This update packs in a lots of features & performance improvements for you. Here
 
 ## 1.17.1
 **Jan 4, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 - New app icons. Now you can choose among 8 app icons.
