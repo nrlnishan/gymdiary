@@ -11,6 +11,37 @@ See the changelogs for each release of Gym Diary here
 
 ### `Latest`
 
+
+## 1.23.0
+**Aug 12, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+- Workout plans now has its own dedicated screen.
+- Tapping on workout plan would show list of workouts and dedicated button to start that plan
+- Revamp ui for tracking calorie count and body weight
+- Now you can also provide feedback to us in app without using any email service.
+- Fix crash when popup appears in ipad
+- Fix issue where app would ask for ratings immediately after installing the app
+- Fix issue where selected workout category filter was not highlighted
+
+- Bug fixes & performance improvements.
+
+## 1.22.0
+**May 28, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+- Fix status bar theme issue on dark mode
+- Bug fixes & performance improvements.
+
+## 1.21.0
+**Apr 15, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+
+- Make UI more intuitive for selecting & changing date when viewing workout report
+- Fixed bug which showed onboarding screens multiple time for some user.
+- Bug fixes & performance improvements.
+
 ## 1.20.0
 **Feb 13, 2022**
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
