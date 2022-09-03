@@ -13,6 +13,7 @@ See the changelogs for each release of Gym Diary here
 
 ## 1.24.0
 **Aug 12, 2022**
+
 This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
 
 
