@@ -11,6 +11,20 @@ See the changelogs for each release of Gym Diary here
 
 ### `Latest`
 
+## 1.24.0
+**Aug 12, 2022**
+This update packs in a lots of features & performance improvements for you. Here are a couple of the enhancements you'll find in the latest update:
+
+
+- Redesign calorie list screen. Now you can view your calorie intake for past 3 days easily.
+- After finishing your workout, you can now view the summary of your workout after each workout session.
+- Workout plans now has its own dedicated screen.
+- Now you can select multiple categories as filter in workout list.
+- Fix design issue in workout set timer.
+- Fix popup container crash when app is launched for the first time
+- Fix crash issue when deleting workout plans
+- Bug fixes & performance improvements.
+
 
 ## 1.23.0
 **Aug 12, 2022**
